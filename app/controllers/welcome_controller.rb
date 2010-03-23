@@ -1,4 +1,6 @@
 class WelcomeController < ApplicationController
+  unloadable
+ 
   before_filter :forward_if_single, :only => :index
 
   def forward_if_single
