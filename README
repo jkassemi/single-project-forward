@@ -1,0 +1,9 @@
+Single Project Forward
+=======================
+
+Forward a Redmine user to a single project page if only access to this project is available.
+
+No attempt to adjust routes or more formally make Redmine single-project is made here.
+
+
+Copyright (c) 2010 [James Kassemi], released under the MIT license
