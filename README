@@ -1,6 +1,8 @@
 Single Project Forward
 =======================
 
+*NO LONGER ACTIVELY MAINTAINED* - this project should be considered Archived. If you are interested in maintaining an official fork, please contact me directly.
+
 Forward a Redmine user to a single project page if only access to this project is available.
 
 No attempt to adjust routes or more formally make Redmine single-project is made here.
